@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+}
+.heading {
+    text-align: center;
+    margin-top: 10%;
+}
+.box {
+    margin-top: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    background-color: rgb(242, 244, 246);
+    box-shadow: 10px 10px 15px lightgray;
+}
+.amount  {
+    margin: 0px 10px;
+}
+#transaction-area {
+    display: none;
+    margin-top: 5%;
+}
+.view-transaction-area {
+    border-radius: 10px;
+    padding: 10%;
+    margin: 0px 20px;
+    text-align: center;
+    margin-top: 10%;
+}
+.color-1 {
+    background-color: rgb(29, 178, 228);
+}
+.color-2 {
+    background-color: lightcoral;
+}
+.color-3 {
+    background-color: lightgreen;
+}
+.input-amount {
+    margin-top: 5%;
+}
